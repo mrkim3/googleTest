@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.packt.example.socialgoogle1.config.GoogleProperties",
+      "name": "spring.social.google",
+      "type": "com.packt.example.socialgoogle1.config.GoogleProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.packt.example.socialgoogle1.config.GoogleProperties",
+      "name": "spring.social.google.app-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.packt.example.socialgoogle1.config.GoogleProperties",
+      "name": "spring.social.google.app-secret",
+      "type": "java.lang.String"
+    }
+  ]
+}
